@@ -3,9 +3,9 @@
     /// Debug
     ////////////////////////////////////////////////////////////////////////
     // Set to true to disable cache and enable debug output.
-    "debug": false,
+    "debug": ,
     // Set to true to run tests on startup,
-    "run_tests": false,
+    "run_tests": ,
 
     ////////////////////////////////////////////////////////////////////////
     /// Themes
